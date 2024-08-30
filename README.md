@@ -6,6 +6,7 @@
 **Module Supervisor:** Somdip Dey  
 **Student ID:** 1905600  
 **Date:** 23 August 2023
+**Grade:** 71% (1st)
 
 ![Aspose Words 1f2de021-5180-4c54-9a22-ff96154d9bc5 001](https://github.com/Emmanuelolaoye/Jypa/assets/33904106/478de2c9-de7f-4787-a7dc-ae0b7a58fa36)
 ---
